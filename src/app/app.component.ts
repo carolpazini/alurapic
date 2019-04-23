@@ -7,6 +7,20 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
 
+  photos = [
+    {
+      url: 'http://www.pemberley.com/janeinfo/naby2thn.gif',
+      description: 'Cate Morland'
+    },
+    {
+      url: 'http://www.pemberley.com/janeinfo/cargdpth.gif',
+      description: 'Indeterminate illustration'
+    },
+    {
+      url: 'http://www.pemberley.com/janeinfo/persulth.gif',
+      description: 'Persuasion'
+    }
+  ];
   
 }
 
