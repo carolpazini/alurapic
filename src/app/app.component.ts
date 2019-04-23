@@ -7,8 +7,6 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
 
-  title = 'alurapic';
-  description = 'Cate Morland';
-  url = 'http://www.pemberley.com/janeinfo/naby2thn.gif';
+  
 }
 
